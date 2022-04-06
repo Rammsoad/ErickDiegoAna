@@ -10,6 +10,3 @@
 * Nightwolf
 * Ironman
 * Capitán América
-* Hulk
-* Cherry pick change (from main)
-* Cherry pick change (from main new)
